@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Program6 {
     static double rounder(double value){
         return Math.round(value*1000.0)/1000.0;
     }
